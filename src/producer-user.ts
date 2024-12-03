@@ -14,6 +14,7 @@ async function main() {
     messages: [
       {
         value: "hi there",
+        key: "user1", // hashing
       },
     ],
   });

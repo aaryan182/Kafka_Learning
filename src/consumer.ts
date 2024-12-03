@@ -14,7 +14,7 @@ const consumer = kafka.consumer({ groupId: "my-app3" });
 async function main() {
   await consumer.connect();
   await consumer.subscribe({
-    topic: "quickstart-events",
+    topic: "payment-done",
     fromBeginning: true,
   });
 
