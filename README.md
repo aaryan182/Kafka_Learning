@@ -1,4 +1,4 @@
-# Kafka_Learning
+# Kafka
 
 Kafka is a distributed event-streaming platform used for building real-time data pipelines and streaming applications. This repository serves as an educational resource for understanding Kafka's core components and operations.
 
